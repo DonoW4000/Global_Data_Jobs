@@ -2,7 +2,7 @@
 ### Presentation Deck Link: https://docs.google.com/presentation/d/12guieKoNJR65cbhgR9Y4Ji1QwXuYkQ5THK_dyUueYak/edit?usp=sharing
 ### Objective 
 Our goal with this project is to gain insights on Data Science jobs through Exploratory Data Analysis(EDA) and visualization techniques.
-### Project Team: 
+### Project Team:  
 Kris Skorna, Simon Ponce, Donovan Watson, Geoff Maitland
 ### About The Data
 - ‘work_year’- year of recording data (2020, 2021, 2022, 2023, 2024)
