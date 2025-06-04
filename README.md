@@ -3,7 +3,7 @@
 ### Objective 
 Our goal with this project is to gain insights on Data Science jobs through Exploratory Data Analysis(EDA) and visualization techniques.
 ### Project Team:  
-Kris Skorna, Simon Ponce, Donovan Watson, Geoff Maitland
+Kris Skorna, Simon Ponce, Donovan Watson, Geoff Maitland 
 ### About The Data
 - ‘work_year’- year of recording data (2020, 2021, 2022, 2023, 2024)
 - ‘experience_level’- Experience level of employee (Entry,Mid,Senior,Executive)
