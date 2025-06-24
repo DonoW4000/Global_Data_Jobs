@@ -9,7 +9,7 @@ Kris Skorna, Simon Ponce, Donovan Watson, Geoff Maitland
 - ‘experience_level’- Experience level of employee (Entry,Mid,Senior,Executive)
 - 'employment_type'-Type of Employment (Full-time ,Part-time,Freelancer)
 - 'job_title'- job title of job in Analytics (Data Engineer,Data Analyst,Data Scientist..)
-- 'salary'- salary amount
+- 'salary'- salary amount 
 - 'salary_currency' -currency of salary paid in different countries
 - 'salary_in_usd'- salary in US Dollars
 - 'employee_residence'-Country where employee resides/works
